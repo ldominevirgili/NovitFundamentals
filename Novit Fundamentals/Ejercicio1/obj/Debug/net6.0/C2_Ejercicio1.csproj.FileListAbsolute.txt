@@ -1,0 +1,15 @@
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\bin\Debug\net6.0\C2_Ejercicio1.exe
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\bin\Debug\net6.0\C2_Ejercicio1.deps.json
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\bin\Debug\net6.0\C2_Ejercicio1.runtimeconfig.json
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\bin\Debug\net6.0\C2_Ejercicio1.dll
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\bin\Debug\net6.0\C2_Ejercicio1.pdb
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.AssemblyInfo.cs
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.dll
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\refint\C2_Ejercicio1.dll
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.pdb
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\C2_Ejercicio1.genruntimeconfig.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio1\obj\Debug\net6.0\ref\C2_Ejercicio1.dll

@@ -1,0 +1,5 @@
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio3\obj\Debug\net6.0\C3_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio3\obj\Debug\net6.0\C3_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio3\obj\Debug\net6.0\C3_Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio3\obj\Debug\net6.0\C3_Ejercicio3.AssemblyInfo.cs
+C:\Users\Novit\source\repos\Novit Fundamentals\Ejercicio3\obj\Debug\net6.0\C3_Ejercicio3.csproj.CoreCompileInputs.cache
