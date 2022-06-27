@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Novit\\source\\repos\\Novit Fundamentals\\Novit Fundamentals\\C2_Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\Novit\\Desktop\\Nueva carpeta\\NovitFundamentals\\Novit Fundamentals\\Novit Fundamentals\\C2_Ejercicio2.csproj",
       "projectName": "C2_Ejercicio2",
-      "projectPath": "C:\\Users\\Novit\\source\\repos\\Novit Fundamentals\\Novit Fundamentals\\C2_Ejercicio2.csproj",
+      "projectPath": "C:\\Users\\Novit\\Desktop\\Nueva carpeta\\NovitFundamentals\\Novit Fundamentals\\Novit Fundamentals\\C2_Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\Novit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Novit\\source\\repos\\Novit Fundamentals\\Novit Fundamentals\\obj\\",
+      "outputPath": "C:\\Users\\Novit\\Desktop\\Nueva carpeta\\NovitFundamentals\\Novit Fundamentals\\Novit Fundamentals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
